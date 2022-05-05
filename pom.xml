@@ -136,7 +136,7 @@
         </executions>
       </plugin> -->
       
-      <!-- Build Configuration for JaCoCo -->
+      <!-- Build Configuration for JaCoCo
       <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
@@ -149,7 +149,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin> 
+      </plugin> -->
       
     </plugins>
   </build>
